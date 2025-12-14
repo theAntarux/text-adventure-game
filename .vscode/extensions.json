@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "mcright.auto-save", // No need to save files manually, it saves automatically on focus change
+    ]
+}
